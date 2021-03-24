@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/assignment1/static/css/main.07be7f7f.chunk.css",
-    "main.js": "/assignment1/static/js/main.8f0189d7.chunk.js",
-    "main.js.map": "/assignment1/static/js/main.8f0189d7.chunk.js.map",
+    "main.css": "/assignment1/static/css/main.7f64d95f.chunk.css",
+    "main.js": "/assignment1/static/js/main.295eb725.chunk.js",
+    "main.js.map": "/assignment1/static/js/main.295eb725.chunk.js.map",
     "runtime-main.js": "/assignment1/static/js/runtime-main.7a618858.js",
     "runtime-main.js.map": "/assignment1/static/js/runtime-main.7a618858.js.map",
     "static/js/2.42951aeb.chunk.js": "/assignment1/static/js/2.42951aeb.chunk.js",
     "static/js/2.42951aeb.chunk.js.map": "/assignment1/static/js/2.42951aeb.chunk.js.map",
     "index.html": "/assignment1/index.html",
-    "static/css/main.07be7f7f.chunk.css.map": "/assignment1/static/css/main.07be7f7f.chunk.css.map",
+    "static/css/main.7f64d95f.chunk.css.map": "/assignment1/static/css/main.7f64d95f.chunk.css.map",
     "static/js/2.42951aeb.chunk.js.LICENSE.txt": "/assignment1/static/js/2.42951aeb.chunk.js.LICENSE.txt",
     "static/media/default-avatar.522560c8.png": "/assignment1/static/media/default-avatar.522560c8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7a618858.js",
     "static/js/2.42951aeb.chunk.js",
-    "static/css/main.07be7f7f.chunk.css",
-    "static/js/main.8f0189d7.chunk.js"
+    "static/css/main.7f64d95f.chunk.css",
+    "static/js/main.295eb725.chunk.js"
   ]
 }
